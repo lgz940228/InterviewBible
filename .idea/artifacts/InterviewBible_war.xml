@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="InterviewBible:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="interview-bible.war">
-      <element id="artifact" artifact-name="InterviewBible:war exploded" />
-    </root>
-  </artifact>
-</component>
